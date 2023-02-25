@@ -3,9 +3,9 @@
 
 Задание 1
 
-Link to commit 1
+Link to commit 1 https://github.com/SG-netology/8-2-Git/commit/6a06f73b5afc2b4114613f3dddc6b91717bc97bf
 
-При необходимости прикрепитe сюда скриншоты ![Название скриншота 1](ссылка на скриншот 1)
+![1-1](ссылка на скриншот 1)
 
 Задание 2
 
