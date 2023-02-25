@@ -22,5 +22,6 @@ Link to commit 2 https://github.com/SG-netology/8-2-Git/commit/6a44afbb1b15cdfa9
 
 Link to the commit graph https://github.com/SG-netology/8-2-Git/network
 
-![3-1](https://github.com/SG-netology/8-2-Git/blob/main/2-1.png)
-![3-2](https://github.com/SG-netology/8-2-Git/blob/main/2-1.png)
+![3-1](https://github.com/SG-netology/8-2-Git/blob/main/3-1.png)
+![3-2](https://github.com/SG-netology/8-2-Git/blob/main/3-2.png)
+![3-3](https://github.com/SG-netology/8-2-Git/blob/main/3-3.png)
