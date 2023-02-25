@@ -20,6 +20,7 @@ Link to commit 2 https://github.com/SG-netology/8-2-Git/commit/6a44afbb1b15cdfa9
 
 Задание 3
 
-Link to the commit graph
+Link to the commit graph https://github.com/SG-netology/8-2-Git/network
 
-При необходимости прикрепитe сюда скриншоты ![Название скриншота](ссылка на скриншот)
+![3-1](https://github.com/SG-netology/8-2-Git/blob/main/2-1.png)
+![3-2](https://github.com/SG-netology/8-2-Git/blob/main/2-1.png)
